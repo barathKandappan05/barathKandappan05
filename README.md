@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Large Language Model**
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **Firebase**
 
 - 💬 Ask me about **Python , Machine Learning and NLP**
 
@@ -258,3 +258,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barathKandappan05&show_icons=true&locale=en&theme=tokyonight" alt="barathKandappan05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barathKandappan05&&theme=tokyonight" alt="barathKandappan05" /></p>
+
+<p><img align="center" src="https://leetcard.jacoblin.cool/Lucifer517125" alt="barathKandappan05" /></p>
