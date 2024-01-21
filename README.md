@@ -257,6 +257,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barathKandappan05&show_icons=true&locale=en&theme=tokyonight" alt="barathKandappan05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barathKandappan05&&theme=tokyonight" alt="barathKandappan05" /></p>
-
-<p><img align="center" src="https://leetcard.jacoblin.cool/Lucifer517125" alt="barathKandappan05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barathKandappan05&&theme=tokyonight" alt="barathKandappan05" /> &nbsp;<img align="center" src="https://leetcard.jacoblin.cool/Lucifer517125" alt="barathKandappan05" /></p>
